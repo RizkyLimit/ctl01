@@ -40,14 +40,15 @@ Include in your code and begin using the library:
 #include <ctl01>
 ```
 
-## Usage
+## Dependencies
 
-<!--
-Write your code documentation or examples here. If your library is documented in
-the source code, direct users there. If not, list your API and describe it well
-in this section. If your library is passive and has no API, simply omit this
-section.
--->
+| Name | Version | URL |
+| - | - | - |
+| SA-MP MySQL | R41-4+ | https://github.com/pBlueG/SA-MP-MySQL |
+| sscanf2 | v2.11.4+ | https://github.com/Y-Less/sscanf |
+| streamer | v2.9.5+ | https://github.com/samp-incognito/samp-streamer-plugin |
+| YSI-Includes | v5.06.1932+ | https://github.com/Misiur/YSI-Includes |
+| easyDialog | v2.0-android | https://github.com/Awsomedude/easyDialog |
 
 ## Testing
 
